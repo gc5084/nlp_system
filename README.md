@@ -1,2 +1,2 @@
 # nlp_system
-simple dialogue system for NLP course
+simple dialogue system for NLP course (partial code)
